@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.local
+.vscode/
+.idea/
+storage/
+vendor/
+.phpunit.cache/
+.DS_Store
+Thumbs.db
